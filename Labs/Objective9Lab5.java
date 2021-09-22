@@ -41,12 +41,6 @@ public class Objective9Lab5 {
       }
     }
 
-/*
-    //Part 4
-    double average = findAverage(num1, num2);
-    System.out.println("The average of " + num1 + " and " + num2 " is " + averave);
-*/
-
     kb.close();
 
   }
